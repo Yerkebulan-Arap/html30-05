@@ -1,0 +1,86 @@
+body{
+    background-image: url(фон.jpg);
+    background-size: cover;
+
+}
+header{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 600;
+    padding-top: 40px;
+    margin-bottom: 40px;
+}
+.ramka, .ramka1, .ramka2{
+    border: 1px solid black;
+    background-color: #e7e7e7;
+    width:700px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.job, .job2, .job3{
+    font-size: 40px;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+.salary{
+    font-size:25px;
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+.candidate, .duty, .offer, .skills{
+    margin-left: 10px;
+    font-weight: 700;
+}
+ul{
+    font-weight: 100;
+}
+span{
+    border: 1px solid #b7b7b7;
+    background-color: #b7b7b7;
+    margin-right: 5px;
+    padding: 0px 4px 0px 4px;
+}
+.foot{
+    margin: 10px 0px 10px 30px;
+}
+
+/*2block*/
+
+
+.salary2{
+    font-size:25px;
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+.candidate2{
+    font-size:15px;
+    text-align:center;
+    font-weight: 400;
+}
+.text{
+    margin: 0px 10px 0px 10px;
+    text-align: justify;
+}
+
+/*3block*/
+
+
+.salary3{
+    font-size:25px;
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+.candidate3{
+    font-size:15px;
+    text-align:center;
+    font-weight: 400;
+}
+.text2{
+    margin: 0px 10px 0px 10px;
+    text-align: justify;
+}
